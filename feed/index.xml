@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Gainsboro</title>
+	<atom:link href="https://https://surajrathour.github.io/Gainsboro/feed/" rel="self" type="application/rss+xml" />
+	<link>https://https://surajrathour.github.io/Gainsboro</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 07 Sep 2021 12:59:34 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+
+<image>
+	<url>https://https://surajrathour.github.io/Gainsboro/wp-content/uploads/2021/09/logo.png</url>
+	<title>Gainsboro</title>
+	<link>https://https://surajrathour.github.io/Gainsboro</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Business</title>
+		<link>https://https://surajrathour.github.io/Gainsboro/2021/09/07/business/</link>
+					<comments>https://https://surajrathour.github.io/Gainsboro/2021/09/07/business/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 07 Sep 2021 12:49:04 +0000</pubDate>
+				<category><![CDATA[Events]]></category>
+		<guid isPermaLink="false">https://https://surajrathour.github.io/Gainsboro/?p=214</guid>
+
+					<description><![CDATA[Fifteen years ago, down in a small, coastal town in South Carolina, we dipped our toes into the world of marketing to start a branding agency called Motto. We were twenty-something, had $250…]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="214" class="elementor elementor-214" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-46a7dc1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="46a7dc1" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-bdc82c2" data-id="bdc82c2" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-82aa28f elementor-widget elementor-widget-text-editor" data-id="82aa28f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							Busines						</div>
+				</div>
+				<div class="elementor-element elementor-element-9d50834 elementor-widget elementor-widget-heading" data-id="9d50834" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">"What To Do When Your Confidence, Passion, And Bold Ideas Get You Labeled “Difficult”
+</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-440be79 elementor-widget elementor-widget-text-editor" data-id="440be79" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries&#8230;
+<br>
+<i>-03.sept. 2021 </i>
+						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://https://surajrathour.github.io/Gainsboro/2021/09/07/business/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
